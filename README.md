@@ -1,27 +1,39 @@
-League of Legends Quiz - Descubra seu Perfil de Jogador
+# 📜 Quiz League of Legends (LoL)
 
-Sobre o Projeto
+Bem-vindo ao nosso site dedicado ao universo de **League of Legends** (LoL)! 🎮 Este projeto tem o objetivo de entreter, educar e engajar todos os fãs de LoL – desde os jogadores casuais aos aspirantes a profissionais – através de quizzes interativos, galerias de imagens, vídeos e conteúdos multimídia.
 
-Este projeto é um quiz interativo desenvolvido para que jogadores de League of Legends descubram qual estilo de jogo mais se adapta a eles. Com base nas respostas de cada usuário, o quiz identifica um perfil específico (Carry, Support, Tank ou Jungler) e oferece sugestões de campeões que melhor se alinham ao estilo identificado.
+---
 
+## 🎯 Objetivo do Site
 
-Objetivo e Funcionalidades
+O site foi desenvolvido com o propósito de oferecer uma experiência multimídia rica e interativa sobre o jogo LoL, permitindo que os usuários testem seus conhecimentos, explorem conteúdos visuais e aprendam mais sobre a complexidade e o universo deste popular MOBA. 
 
-O site foi criado para ajudar jogadores de todos os níveis – tanto iniciantes quanto veteranos – a entenderem melhor suas preferências e habilidades dentro do jogo. Com base em perguntas sobre estilos de combate, papéis favoritos e reações estratégicas, o sistema define um perfil e recomenda campeões adequados.
+## 💡 Funcionalidades
 
+- **Quiz Interativo**: Um quiz com perguntas variadas sobre o universo de LoL, com níveis de dificuldade diferentes, para desafiar o conhecimento de jogadores e fãs.
+- **Galeria de Imagens**: Uma coleção de imagens exclusivas do jogo, apresentando cenários, campeões, skins e momentos icônicos de LoL.
+- **Vídeos Temáticos**: Compilações de vídeos que trazem guias, jogadas impressionantes, e os momentos mais marcantes do jogo.
+  
+---
 
-Funcionalidades principais:
+## 🎮 Público-Alvo
 
-Um quiz interativo com 5 perguntas para identificar o estilo de jogo do usuário.
-Perfis de resultados que incluem recomendações de campeões de League of Legends, como Jinx, Lulu, Malphite e Lee Sin.
-Um design estilizado e imersivo, inspirado no universo gamer, com um fundo escuro para uma experiência mais autêntica.
+Nosso site é feito para **todos os amantes de LoL e o público gamer em geral**! Seja você um jogador iniciante querendo aprender sobre o jogo ou um veterano que deseja desafiar seus conhecimentos, este espaço é para você.
 
-Este site utiliza conceitos de sistemas multimídia para oferecer uma experiência imersiva e interativa. Entre os elementos multimídia presentes no site, destacam-se:
+## 🔗 Conexão com Sistemas Multimídia
 
-Interatividade: As respostas do usuário ao quiz moldam o conteúdo final exibido, criando uma experiência personalizada e interativa.
-Design Visual: Um layout visual inspirado no ambiente gamer, com uma paleta de cores escuras, elementos visuais e textos que aumentam a imersão no tema.
-Apresentação Dinâmica de Conteúdo: O resultado é exibido de forma visualmente atraente, com sugestões de campeões para reforçar a experiência do usuário.
+O projeto faz uso de **sistemas multimídia** para criar uma experiência interativa e envolvente, integrando conteúdo visual e interativo para manter os usuários engajados. Através da integração de vídeos, imagens e quizzes, oferecemos uma imersão completa no universo de LoL.
 
-Este projeto é direcionado a todos os fãs de League of Legends e ao público gamer em geral. É uma ferramenta tanto para jogadores que estão começando e querem entender mais sobre os papéis no jogo, quanto para jogadores experientes que desejam explorar e confirmar seu estilo de jogo preferido.
+## 🚀 Tecnologias Utilizadas
 
-Para começar, basta acessar o site e responder às perguntas do quiz. Em poucos minutos, você terá um perfil detalhado sobre seu estilo de jogo e recomendações de campeões que combinam com sua personalidade no campo de batalha.
+- **HTML/CSS**: Estruturação e estilização da página.
+- **JavaScript**: Interatividade no quiz e elementos dinâmicos do site.
+- **APIs de multimídia**: Integração com plataformas de vídeo e imagens.
+  
+---
+
+Esperamos que você se divirta e aprenda muito por aqui! Deixe seu feedback e compartilhe com seus amigos gamers! 🎉
+
+---
+
+> **Disclaimer**: Este site é um projeto de fãs e não é afiliado oficial da Riot Games ou do League of Legends.
