@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lolzinho(?)</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Seção de Introdução -->
+  <section id="intro">
+    <h1>Bem-vindo à grande questão, jogar ou não?</h1>
+    <p>Aqui, vendo uma gameplay e uns motivos, vai ficar pra VOCÊ a decisão do que é melhor pra sua vida</p>
+    <button onclick="scrollToSection('video-section')">Explore Agora</button>
+  </section>
+
+  <!-- Seção de Vídeo Promocional -->
+  <section id="video-section">
+    <h2>Conheça o Jogo</h2>
+    <video controls>
+      <source src="video/promocional.mp4" type="video/mp4">
+      Seu navegador não suporta a reprodução de vídeos.
+    </video>
+  </section>
+
+  <!-- Seção de Galeria de Imagens -->
+  <section id="gallery">
+    <h2>Imagens dentro do Jogo</h2>
+    <div class="gallery-images">
+      <img src="images/produto1.jpg" alt="imagem 1">
+      <img src="images/produto2.jpg" alt="imagem 2">
+      <img src="images/produto3.jpg" alt="Maior jogador de todos os tempos">
+    </div>
+  </section>
+
+  <section id="quiz">
+    <h2>Quiz - Descubra seu Estilo no League of Legends</h2>
+    <p>Responda para descobrir qual perfil de jogador combina mais com você!</p>
+    <div id="quiz-questions">
+      <p id="question-text"></p>
+      <button onclick="answerQuestion('a')">Opção A</button>
+      <button onclick="answerQuestion('b')">Opção B</button>
+      <button onclick="answerQuestion('c')">Opção C</button>
+      <button onclick="answerQuestion('d')">Opção D</button>
+    </div>
+    <div id="quiz-result" style="display: none;">
+      <p id="result-text"></p>
+    </div>
+  </section>
+
+  <!-- Seção Final - Call to Action -->
+  <section id="cta">
+    <h2>Gostou do que viu?</h2>
+    <button onclick="contactUs()">Entre em Contato</button>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
